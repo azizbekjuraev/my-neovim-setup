@@ -3,3 +3,4 @@
 -- Add any additional options here
 vim.opt.showtabline = 0
 vim.g.lazyvim_picker = "snacks"
+vim.g.autoformat = false
